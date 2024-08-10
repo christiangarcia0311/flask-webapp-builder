@@ -34,7 +34,7 @@ CLI:
 ```
 
 ```bash
-  pip install https://github.com/christiangarcia0311/flask-webapp-builder/raw/main/dist/flask_webapp_builder-1.1.0.tar.gz
+  pip install https://github.com/christiangarcia0311/flask-webapp-builder/raw/main/dist/flask_webapp_builder-1.2.0.tar.gz
 ```
 
 ## Usage
