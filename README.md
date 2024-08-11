@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/pypi-v.3.1.0-blue)
+![Static Badge](https://img.shields.io/badge/pypi-v.1.2.0-blue)
 ![Static Badge](https://img.shields.io/badge/flask_webapp_builder-green)
 ![Static Badge](https://img.shields.io/badge/flask-framework-red)
 ![Static Badge](https://img.shields.io/badge/webapplications-blue)
@@ -94,6 +94,6 @@ cd flask-webapp-builder
 
 ## Acknowledgements
 
-[Flask](https://flask.palletsprojects.com/en/3.0.x/): The web framework used to build the project.
+[Flask Framework](https://flask.palletsprojects.com/en/3.0.x/): web framework used to build the project.
 
-[Christian](https://github.com/christiangarcia0311): The creator and maintainer of this package.
+[Christian Garcia](https://github.com/christiangarcia0311): creator and maintainer of this package.
