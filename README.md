@@ -75,7 +75,7 @@ or
 
 ![server](images/server.jpg)
 
-5. Edit and Customize 
+5. Edit and Customize file
 
 > Feel free to edit the `index.html`, `main.css`, `main.js` and other files to customize your application according to your needs.
 
