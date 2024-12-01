@@ -1,9 +1,9 @@
-![Static Badge](https://img.shields.io/badge/pypi-v.1.2.0-blue)
-![Static Badge](https://img.shields.io/badge/flask_webapp_builder-green)
-![Static Badge](https://img.shields.io/badge/flask-framework-red)
-![Static Badge](https://img.shields.io/badge/webapplications-blue)
-![Static Badge](https://img.shields.io/badge/flask-projects-orange)
-![Static Badge](https://img.shields.io/badge/flask_webapp-brown)
+![Static Badge](https://img.shields.io/badge/pypi-v.1.2.0-blue?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/flask_webapp_builder-green?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/flask-framework-red?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/webapplications-blue?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/flask-projects-orange?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/flask_webapp-brown?style=for-the-badge)
 
 <h1>Flask WebApp Builder</h1>
 
@@ -90,7 +90,7 @@ cd flask-webapp-builder
 
 ## License
 
-![Static Badge](https://img.shields.io/badge/MIT-License-orange)
+![Static Badge](https://img.shields.io/badge/MIT-License-orange?style=for-the-badge)
 
 ## Acknowledgements
 
